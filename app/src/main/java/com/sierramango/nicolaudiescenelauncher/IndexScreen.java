@@ -93,5 +93,4 @@ public class IndexScreen extends AppCompatActivity {
 
 
 
-
 }
